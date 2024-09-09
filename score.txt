@@ -1,0 +1,43 @@
+Question 1: What does OS stand for?
+1) 1) Order System
+2) 2) Open Software
+3) 3) Operating System
+4) 4) Operator System
+Answer = 3
+Sujay answer = correct
+
+Question 2: What is the full form of WWW?
+1) 1) World Wide Web
+2) 2) World Wide Window
+3) 3) World Width Web
+4) 4) World Web Wide
+Answer = 1
+Sujay answer = correct
+
+Question 3: Which one is not an input device?
+1) 1) Mouse
+2) 2) Keyboard
+3) 3) Monitor
+4) 4) Scanner
+Answer = 3
+Sujay answer = correct
+
+Question 4: What does CPU stand for?
+1) 1) Central Process Unit
+2) 2) Central Processing Unit
+3) 3) Central Processor Unit
+4) 4) Central Processing Utility
+Answer = 2
+Sujay answer = wrong
+
+Question 5: What does IP stand for in IP address?
+1) 1) Internet Provider
+2) 2) Internet Protocol
+3) 3) Internet Process
+4) 4) Internet Procedure
+Answer = 2
+Sujay answer = correct
+
+
+Final Score
+Sujay = 4
